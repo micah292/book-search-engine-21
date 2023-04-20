@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.7.12",
+    "apollo-server-express": "^2.15.0",
+    "bcrypt": "^5.1.0",
+    "concurrently": "^8.0.1",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.4"
+  }
+}
